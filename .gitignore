@@ -2,7 +2,6 @@
 node_modules
 examples/**/node_modules
 coverage
-dist
 es
 lib
 _book
